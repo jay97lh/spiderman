@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../DataStructure(Python)/.idea/DataStructure(Python).iml" filepath="$PROJECT_DIR$/../../../DataStructure(Python)/.idea/DataStructure(Python).iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../Socket/.idea/Socket.iml" filepath="$PROJECT_DIR$/../../../Socket/.idea/Socket.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../pygame/.idea/pygame.iml" filepath="$PROJECT_DIR$/../../../pygame/.idea/pygame.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/xiaozhu.iml" filepath="$PROJECT_DIR$/.idea/xiaozhu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../zhihu/.idea/zhihu.iml" filepath="$PROJECT_DIR$/../zhihu/.idea/zhihu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../zhuanti/.idea/zhuanti.iml" filepath="$PROJECT_DIR$/../zhuanti/.idea/zhuanti.iml" />
+    </modules>
+  </component>
+</project>
