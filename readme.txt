@@ -11,4 +11,23 @@ This is my Spider Base
 5.macSpiderPlus:
 	使用xpath解析爬取天猫MAC口红页所有口红的信息，并存取在Excel表格中
 6.qidianSpider:
+	使用xpath解析爬取起点文学网全部作品页面内所有图书的基本信息，存储在Excel表格中
+7.qzoneSpider:
+	通过Selenium模拟登陆，爬取QQ好友列表所有好友的空间动态并存储在MongoDB中
+8.seleniumTaobaoSpider:
+	通过Selenium模拟翻页，爬取淘宝搜索奥迪双钻词条搜索到的商品的详细信息，存储在MongoDB中
+9.DataStructure：
+	学习数据结构时使用Python写demo
+10.58Spider:
+	爬取58同城合肥市登记的所有信息
+	channal_extract.py:获取58同城合肥市所有可使用关键字的具体URL列表。
+	page_spider.py:通过xpath解析爬取每一个URL下的每一个具体页内的商品详细信息
+	main.py:程序入口
+11.doubanSpider:
+	爬取豆瓣图书所有图书信息并存入MongoDB中
+	channal_infos.py:获取每一个类目的详细URL
+	page_spider.py:通过xpath解析爬取每个类目每一页下的所有图书信息
+	main.py:程序入口
+12.zhuanti:
+	使用Scrapy构架爬取简书专题的所有登记文章的信息
 	
