@@ -30,4 +30,5 @@ This is my Spider Base
 	main.py:程序入口
 12.zhuanti:
 	使用Scrapy构架爬取简书专题的所有登记文章的信息
-	
+13.maizuoSpider：
+	使用jsonpath解析抓取深圳市卖座网前五页所有电影信息
