@@ -32,3 +32,5 @@ This is my Spider Base
 	使用Scrapy构架爬取简书专题的所有登记文章的信息
 13.maizuoSpider：
 	使用jsonpath解析抓取深圳市卖座网前五页所有电影信息
+14.get_ip:
+	动态代理池的获取
